@@ -2,12 +2,12 @@
 
 I build operating systems for work: data platforms, PMO workflows, and AI-agent infrastructure.
 
-Currently leading PMO work at VIPKid, with a focus on turning messy human processes into clear systems.
+Generalist, currently work at VIPKid as PMO, with a focus on turning messy human processes into clear systems.
 
 ## Focus areas
 
 - AI agents as personal and fleet infrastructure
-- Data operations: StarRocks, Hive, DW APIs
+- Data/Business analysis
 - Education workflow design
 - Knowledge systems and automation
 
